@@ -12,7 +12,7 @@ normalizing.
 ## Install
 
 * [npm](http://npmjs.org/): `npm install --save normalize.css`
-* [cdnjs](https://cdnjs.com/libraries/normalize)
+* [cdnjs](https://cdnjs.com/libraries/normalize/)
 * [Download](http://necolas.github.io/normalize.css/latest/normalize.css).
 
 No other styles should come before Normalize.css.
