@@ -1,3 +1,69 @@
+###CN
+normalize.css是一个可定制的CSS文件，使浏览器渲染所有 元素始终与现代接轨。
+
+依托项目研究为默认浏览器 风格之间的差异来精确的目标只需要从 规范效益的方式。
+
+查看测试文件
+
+安装
+
+新公共管理：安装，节省normalize.css NPM
+CDNJS
+下载。
+不应该在normalize.css其他样式。
+
+建议包括normalize.css文件为未开发的 库代码。
+
+它是做什么的？
+
+保留有用的默认值，不像许多CSS重置。
+规范风格的宽范围的元素。
+纠正错误和常见的浏览器的不一致。
+提高了细微的改进，可用性。
+解释了什么是代码并使用详细的评论。
+浏览器支持
+
+铬（最新）
+边缘（最新）
+Firefox（最新）
+火狐ESR
+Internet Explorer 8
+歌剧（最新）
+Safari 6
+normalize.css V1提供传统的浏览器 支持（6，Safari 4）， 但不再积极。
+
+扩展的细节
+
+额外的细节和normalize.css深奥的部分解释。
+
+预编码，大骨节病，桑普，
+
+这个等宽，等宽字体：黑客将继承和缩放 字体大小为预格式化文本。重复等宽是 故意。来源。
+
+子，支持
+
+通常，使用子或啜饮对所有 浏览器文本的线框的高度。来源。
+
+SVG：不（：根）
+
+添加溢出：隐藏修复了IE9的SVG渲染。早期版本的IE 不支持SVG的，所以我们可以放心的使用：not()和root选择器，使用默认的样式表 UA浏览器应用此样式。SVG 邮件列表的讨论
+
+input[type="search"]
+
+搜索输入默认是不完全可设置样式。在Chrome和Safari上 OSX/iOS你不能控制字体，填充，边境，或背景。在 Chrome和Safari在Windows你不能控制边境正确。它将边框宽度但只显示一个边框颜色（不能控制） 1px，外。应用WebKit的外观：文本框针对这些问题，不排除搜索输入的好处（例如 显示过去的搜索）。
+
+Legend
+
+添加边框：0修正IE 8–11臭虫颜色（是的，颜色）不 继承Legend。
+
+贡献
+
+请阅读贡献原则。
+
+致谢
+
+normalize.css是一个项目尼古拉斯加拉赫 共同创造，乔纳森尼尔。
+###EN
 # normalize.css v3
 
 Normalize.css is a customisable CSS file that makes browsers render all
