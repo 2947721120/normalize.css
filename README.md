@@ -6,7 +6,9 @@ normalize.css是一个可定制的CSS文件，使浏览器渲染所有 元素始
 查看测试文件
 
 安装
-
+* [npm](http://npmjs.org/): `npm install --save normalize.css`
+* [cdnjs](https://cdnjs.com/libraries/normalize/)
+* [Download](http://necolas.github.io/normalize.css/latest/normalize.css).
 新公共管理：安装，节省normalize.css NPM
 CDNJS
 下载。
